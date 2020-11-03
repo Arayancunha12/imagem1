@@ -27,7 +27,8 @@ Nesta imagem o cliente tera um primeiro contato com um aplicativo que lhe  vai f
 ** Pré-condições:  
 - Ligar a uma rede wiffi,ou dados moveis 
 - Criar uma conta 
-- inserir os seus dados pessoais 
+- inserir os seus dados pessoais
+
 
 
 **Passo a passo:**
@@ -36,7 +37,16 @@ Nesta imagem o cliente tera um primeiro contato com um aplicativo que lhe  vai f
 
 **Pós-condições:**
 - Indica as alterações que decorreram das ações (ex: o pedido é guardado)
-- Podem escrever NA se não existirem pós-condições.
+- Podem escrever NA se não existirem pós-condições
+
+
+<img src ="" >
+
+# Descrição:
+** Pré-condições:
+# Passo a passo:
+# Pós condições:
+
 
 
 ## Referências:
