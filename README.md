@@ -18,7 +18,7 @@ Para o rotulo alimentar aap vai analisar uma composição nutricional dos rotulo
 Basei-me no projecto em apps  que contribuem para a segur alimentar como GoodGuide,Fooducate
 
 ## Tracking
-<img src = " 0632.JPG " >
+<img src = " 3009.JPG " >
 Definir 3 casos de utilização (o primeiro deve ser core) cada um com o template mostrado em baixo. \
 Cada caso de uso tem um nome, uma descrição, pré-condições (pode-se omitir se vazio), passsos e pós-condições (pode-se omitir se vazio)
 
