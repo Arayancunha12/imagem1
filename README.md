@@ -18,7 +18,7 @@ Para o rotulo alimentar aap vai analisar uma composição nutricional dos rotulo
 Basei-me no projecto em apps  que contribuem para a segur alimentar como GoodGuide,Fooducate
 
 ## Tracking
-<img src = " ">
+<img src =  "image(2)jpeg">
 
 
 
@@ -42,7 +42,7 @@ Depois da abertura da conta tera um inquerito de perguntas como: Seu peso,altura
 - Podem escrever NA se não existirem pós-condições
 
 
-<img src ="" >
+<img src=" imagem(1).jpeg" >
 
 # Descrição:
 ** Pré-condições:
