@@ -12,9 +12,11 @@
 ## Enquadramento
 A disponibilidade dos alimentos, o caso das pessoas aos mesmos e um consumo adequado do ponto de vista nutricional são os três pilares sobre os quais se assenta o conceito de segurança alimentar.As mudanças climáticas e escassez de recursos hidricos ou degradação dos solos são algumas das  ameacas que colocam  o perigo da segurança alimentar.
 O relatorio do Estados de Segurança Alimentar e Nutrição no Mundo 2019 da FAQ estimar que um total de 2 milhões de pessoas no mundo tem algum nível de insegurança alimentar, inclusive na America do norte e Europa onde calcula-se que este seja o caso do 8 % da população da America do norte e Europa.
-Estes dados comprovam, que a segurança alimentar apesar de não afetar a todos igualmente,é  um problema global
-De modo a reforçar este problema criarei uma aplicação que registre(avalia) os rotulos alimentares ,a saude social e ambiental de alguns  produtos alimenticios . 
+Estes dados comprovam, que a segurança alimentar apesar de não afetar a todos igualmente,é  um problema global.
+De modo a reforçar este problema criarei uma aplicação que registre(avalia) os rotulos alimentares ,a saude social e ambiental de alguns  produtos alimenticios .
+
 Para o rotulo alimentar aap vai analisar uma composição nutricional dos rotulos dos produtos e componentes para declarar uma composição de um número de calorias, indicara se o produto contem aditivos e conservantes, corantes, açucar e açidos.
+
 Para avaliação da saúde social e ambiental dos produtos aap terá um conjunto de especialistas como químicos, toxicologistas, nutricionistas, sociologistas que daram um parecer de cada produto solicitado os mesmos fazer uma classificação em uma escala de 0-10 onde quanto mais alto o valor melhor  e o produto.
 Basei-me no projecto em apps  que contribuem para a segur alimentar como GoodGuide,Fooducate
 
