@@ -18,7 +18,8 @@ Para o rotulo alimentar aap vai analisar uma composição nutricional dos rotulo
 Basei-me no projecto em apps  que contribuem para a segur alimentar como GoodGuide,Fooducate
 
 ## Tracking
-<img src = "imagem(1).jpeg ">
+<img src = "imagem(2)jpeg.jpeg">
+<img src = "imagem(1).jpeg "> 
 
 
 
