@@ -24,11 +24,12 @@ Cada caso de uso tem um nome, uma descrição, pré-condições (pode-se omitir 
 
 ### nome do caso de uso
 **Descrição:** \
-Texto descritivo
-uyrf
-**Pré-condições:**
-- O caso de utilização pode ter pré-condições (ex: estar logado, o pedido não estar pago, etc). 
-- Podem escrever NA se não existirem pré-condições 
+Nesta imagem o cliente tera um primeiro contato com um aplicativo que lhe  vai fazeer algumas perguntas
+** Pré-condições:  
+- Ligar a uma rede wiffi,ou dados moveis 
+- Criar uma conta 
+- inserir os seus dados pessoais 
+
 
 **Passo a passo:**
 1. Um caso de utilização consiste na descrição passo a passo (itemizado) de como um utilizador consegue fazer algo na aplicação. Indicando as ações relevantes e a informação relevante que é mostrada ao utilizador.
