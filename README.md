@@ -42,7 +42,7 @@ Depois da abertura da conta tera um inquerito de perguntas como: Seu peso,altura
 - Podem escrever NA se não existirem pós-condições
 
 
-<img src=" imagem(1).jpeg" >
+![imagem(1)](/github.com/Arayancunha12/imagem1/blob/main/imagem(1).jpeg)
 
 # Descrição:
 ** Pré-condições:
