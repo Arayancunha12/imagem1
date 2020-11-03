@@ -23,9 +23,11 @@ Basei-me no projecto em apps  que contribuem para a segur alimentar como GoodGui
 
 
 **Descrição:** \
-Nesta imagem o cliente tera um primeiro contato com um aplicativo que lhe  vai fazeer algumas perguntas
+Nesta janela o usuário tem uma mensagem de boas vindas que na qual será reecaminhada a criar uma conta .
+Depois da abertura da conta tera um inquerito de perguntas como: Seu peso,altura,Genero
+
 ** Pré-condições:  
-- Ligar a uma rede wiffi,ou dados moveis 
+- Ligar a uma rede wi-ffi, ou dados moveis 
 - Criar uma conta 
 - inserir os seus dados pessoais
 
