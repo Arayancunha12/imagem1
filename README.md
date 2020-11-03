@@ -19,10 +19,9 @@ Basei-me no projecto em apps  que contribuem para a segur alimentar como GoodGui
 
 ## Tracking
 <img src = " ">
-Definir 3 casos de utilização (o primeiro deve ser core) cada um com o template mostrado em baixo. \
-Cada caso de uso tem um nome, uma descrição, pré-condições (pode-se omitir se vazio), passsos e pós-condições (pode-se omitir se vazio)
 
-### nome do caso de uso
+
+
 **Descrição:** \
 Nesta imagem o cliente tera um primeiro contato com um aplicativo que lhe  vai fazeer algumas perguntas
 ** Pré-condições:  
